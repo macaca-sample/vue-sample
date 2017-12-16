@@ -4,7 +4,7 @@
 
 ## Sample List
 
-- [autoresponsive-vue](//github.com/xudafeng/autoresponsive-vue)
+- [autoresponsive-vue component testing](//github.com/xudafeng/autoresponsive-vue)
 
 ## License
 
